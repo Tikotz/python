@@ -1,0 +1,3 @@
+email,first,last,username,password,status_login,points
+admin@admin123.gmail.com,admin,super,admin,admin123,True,0
+oritikozki@gmail.com,ori,tikozki,oritiko,tiko123,True,100
